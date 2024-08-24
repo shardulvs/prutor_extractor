@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Data Aggregator",
+  "name": "Prutor Extractor",
   "version": "1.0",
   "permissions": [
     "activeTab",
